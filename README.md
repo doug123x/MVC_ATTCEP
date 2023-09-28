@@ -1,2 +1,2 @@
-# MVC_ATTCEP
-Rotina p/ Atualizacao de CEP do Cliente (SA1)
+# Rotina p/ Atualizacao de CEP do Cliente (SA1)
+Rotina pessoal em ADVPL para exemplos de uso de MVC modelo 1, REST, consumo de MSExecAuto, etc...
